@@ -1,0 +1,1090 @@
+[
+  {
+    "pkg": "htop",
+    "pkg_id": "htop",
+    "pkg_name": "htop",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "3.5.1-9ed6f50-dirty@2026-05-01_1777653711",
+    "download_url": "https://github.com/pkgforge-dev/htop-AppImage/releases/download/3.5.1-9ed6f50-dirty%402026-05-01_1777653711/htop-3.5.1-9ed6f50-dirty-anylinux-x86_64.AppImage",
+    "size": 2425296,
+    "description": "Unofficial AppImage of htop. [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/htop-AppImage"
+    ]
+  },
+  {
+    "pkg": "gimp-and-photogimp",
+    "pkg_id": "gimp-and-photogimp",
+    "pkg_name": "gimp-and-photogimp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "3.2.4-1@2026-05-01_1777638235",
+    "download_url": "https://github.com/pkgforge-dev/GIMP-and-PhotoGIMP-AppImage/releases/download/3.2.4-1%402026-05-01_1777638235/GIMP-3.2.4-1-anylinux-x86_64.AppImage",
+    "size": 185122726,
+    "description": "Unofficial AppImage of GIMP that also includes PhotoGIMP. [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/GIMP-and-PhotoGIMP-AppImage"
+    ]
+  },
+  {
+    "pkg": "ppsspp",
+    "pkg_id": "ppsspp",
+    "pkg_name": "ppsspp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.18.1-5",
+    "download_url": "https://github.com/pkgforge-dev/PPSSPP-AppImage/releases/download/1.18.1-5/ppsspp-1.18.1-5-anylinux-x86_64.AppImage",
+    "size": 69200859,
+    "description": "Unofficial AppImage of the PPSSPP emulator [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/PPSSPP-AppImage"
+    ]
+  },
+  {
+    "pkg": "appimageupdate-deprecated",
+    "pkg_id": "appimageupdate-deprecated",
+    "pkg_name": "appimageupdate-deprecated",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "a76b0ca08",
+    "download_url": "https://github.com/pkgforge-dev/AppImageUpdate-deprecated/releases/download/a76b0ca08/appimageupdatetool%2Bvalidate-x86_64.AppImage",
+    "size": 6088262,
+    "description": "Fork with rate-limit-bypass & misc QOL changes [Maintainers=@QaidVoid|@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/AppImageUpdate-deprecated"
+    ]
+  },
+  {
+    "pkg": "azahar",
+    "pkg_id": "azahar",
+    "pkg_name": "azahar",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "2125.1.1@2026-05-01_1777639019",
+    "download_url": "https://github.com/pkgforge-dev/Azahar-AppImage-Enhanced/releases/download/2125.1.1%402026-05-01_1777639019/Azahar-2125.1.1-anylinux-x86_64.AppImage",
+    "size": 86704709,
+    "description": "Unofficial AppImage of Azahar, with optimized builds for modern cpus. [Maintainer=@Samueru-sama] ",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Azahar-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "kdenlive",
+    "pkg_id": "kdenlive",
+    "pkg_name": "kdenlive",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "26.04.0-2@2026-05-01_1777638484",
+    "download_url": "https://github.com/pkgforge-dev/kdenlive-AppImage-Enhanced/releases/download/26.04.0-2%402026-05-01_1777638484/Kdenlive-26.04.0-2-anylinux-x86_64.AppImage",
+    "size": 187592370,
+    "description": "Unofficial AppImage of kdenlive which is able to work on any linux distro. [Maintainer=@Samueru-sama] ",
+    "src_url": [
+      "https://github.com/pkgforge-dev/kdenlive-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "lmms",
+    "pkg_id": "lmms",
+    "pkg_name": "lmms",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.3.0.alpha.1.r974.g38236a851-1@2026-05-01_1777638931",
+    "download_url": "https://github.com/pkgforge-dev/LMMS-AppImage-Enhanced/releases/download/1.3.0.alpha.1.r974.g38236a851-1%402026-05-01_1777638931/LMMS-1.3.0.alpha.1.r974.g38236a851-1-anylinux-x86_64.AppImage",
+    "size": 97180967,
+    "description": "Unofficial AppImage of LMMS that can work on any linux system [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/LMMS-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "android_translation_layer",
+    "pkg_id": "android_translation_layer",
+    "pkg_name": "android_translation_layer",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "r1178.1f041f58-1@2026-05-01_1777639121",
+    "download_url": "https://github.com/pkgforge-dev/android_translation_layer-AppImage/releases/download/r1178.1f041f58-1%402026-05-01_1777639121/Android_Translation_Layer-r1178.1f041f58-1-anylinux-x86_64.AppImage",
+    "size": 164180311,
+    "description": "Unofficial AppImage of Android Translation Layer [Maintainer=@Samueru-sama] ",
+    "src_url": [
+      "https://github.com/pkgforge-dev/android_translation_layer-AppImage"
+    ]
+  },
+  {
+    "pkg": "cursor",
+    "pkg_id": "cursor",
+    "pkg_name": "cursor",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "3.2.16@2026-05-01_1777637891",
+    "download_url": "https://github.com/pkgforge-dev/Cursor-AppImage-Enhanced/releases/download/3.2.16%402026-05-01_1777637891/Cursor-3.2.16-anylinux-x86_64.AppImage",
+    "size": 225768228,
+    "description": "Unofficial AppImage of Cursor which is able to work on any linux distro. [Maintainer=@Samueru-sama] ",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Cursor-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "rmg",
+    "pkg_id": "rmg",
+    "pkg_name": "rmg",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "0.8.9-1@2026-02-12_1770874170",
+    "download_url": "https://github.com/pkgforge-dev/RMG-AppImage-Enhanced/releases/download/0.8.9-1%402026-02-12_1770874170/RMG-0.8.9-1-anylinux-x86_64.AppImage",
+    "size": 92906026,
+    "description": "Unofficial AppImage of RMG, wtih x86-64-v3 optimizations and smaller size. [Maintainer=@Samueru-sama|@bmsuseluda] ",
+    "src_url": [
+      "https://github.com/pkgforge-dev/RMG-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "audacity",
+    "pkg_id": "audacity",
+    "pkg_name": "audacity",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "3.7.7-2@2026-05-01_1777637109",
+    "download_url": "https://github.com/pkgforge-dev/Audacity-AppImage-Enhanced/releases/download/3.7.7-2%402026-05-01_1777637109/Audacity-3.7.7-2-anylinux-x86_64.AppImage",
+    "size": 61164608,
+    "description": "Unofficial AppImage of Audacity that can work on any linux system [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Audacity-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "opencode",
+    "pkg_id": "opencode",
+    "pkg_name": "opencode",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "v1.14.31@2026-05-01_1777638083",
+    "download_url": "https://github.com/pkgforge-dev/opencode-AppImage-Enhanced/releases/download/v1.14.31%402026-05-01_1777638083/OpenCode-v1.14.31-anylinux-x86_64.AppImage",
+    "size": 145050005,
+    "description": "Improved AppImage of opencode which is able to work on any linux system [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/opencode-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "signal",
+    "pkg_id": "signal",
+    "pkg_name": "signal",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "8.8.0-1@2026-05-01_1777639005",
+    "download_url": "https://github.com/pkgforge-dev/Signal-AppImage-Enhanced/releases/download/8.8.0-1%402026-05-01_1777639005/Signal-8.8.0-1-anylinux-x86_64.AppImage",
+    "size": 161776296,
+    "description": "Unofficial AppImage of Signal that is able to work on any linux distro [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Signal-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "foot",
+    "pkg_id": "foot",
+    "pkg_name": "foot",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.26.1-1@2026-05-01_1777637108",
+    "download_url": "https://github.com/pkgforge-dev/foot-AppImage/releases/download/1.26.1-1%402026-05-01_1777637108/Foot-1.26.1-1-anylinux-x86_64.AppImage",
+    "size": 17633945,
+    "description": "Unofficial AppImage of foot that can also work in x11 [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/foot-AppImage"
+    ]
+  },
+  {
+    "pkg": "extremetuxracer",
+    "pkg_id": "extremetuxracer",
+    "pkg_name": "extremetuxracer",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "0.8.4-3@2026-05-01_1777639070",
+    "download_url": "https://github.com/pkgforge-dev/ExtremeTuxRacer-AppImage/releases/download/0.8.4-3%402026-05-01_1777639070/Extreme_Tux_Racer-0.8.4-3-anylinux-x86_64.AppImage",
+    "size": 60848137,
+    "description": "Unofficial AppImage of Extreme Tux Racer [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/ExtremeTuxRacer-AppImage"
+    ]
+  },
+  {
+    "pkg": "rustdesk",
+    "pkg_id": "rustdesk",
+    "pkg_name": "rustdesk",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.4.6-2@2026-05-01_1777638497",
+    "download_url": "https://github.com/pkgforge-dev/RustDesk-AppImage-Enhanced/releases/download/1.4.6-2%402026-05-01_1777638497/RustDesk-1.4.6-2-anylinux-x86_64.AppImage",
+    "size": 93383399,
+    "description": "Unofficial AppImage of rustdesk which is able to work on any linux distro. [Maintainer=@Samueru-sama] ",
+    "src_url": [
+      "https://github.com/pkgforge-dev/RustDesk-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "qarma",
+    "pkg_id": "qarma",
+    "pkg_name": "qarma",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "r1.d3730ad-1@2026-05-01_1777639005",
+    "download_url": "https://github.com/pkgforge-dev/qarma-AppImage/releases/download/r1.d3730ad-1%402026-05-01_1777639005/qarma-r1.d3730ad-1-anylinux-x86_64.AppImage",
+    "size": 19335195,
+    "description": "Unofficial AppImage of qarma [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/qarma-AppImage"
+    ]
+  },
+  {
+    "pkg": "protontricks",
+    "pkg_id": "protontricks",
+    "pkg_name": "protontricks",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.14.1-1@2026-05-01_1777638965",
+    "download_url": "https://github.com/pkgforge-dev/Protontricks-AppImage/releases/download/1.14.1-1%402026-05-01_1777638965/Protontricks-1.14.1-1-anylinux-x86_64.AppImage",
+    "size": 31650130,
+    "description": "Unofficial AppImage of Protontricks [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Protontricks-AppImage"
+    ]
+  },
+  {
+    "pkg": "godot",
+    "pkg_id": "godot",
+    "pkg_name": "godot",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "4.6.2-1@2026-05-01_1777639181",
+    "download_url": "https://github.com/pkgforge-dev/Godot-AppImage/releases/download/4.6.2-1%402026-05-01_1777639181/Godot_Engine-4.6.2-1-anylinux-x86_64.AppImage",
+    "size": 102149678,
+    "description": "Unofficial AppImage of Godot [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Godot-AppImage"
+    ]
+  },
+  {
+    "pkg": "libation",
+    "pkg_id": "libation",
+    "pkg_name": "libation",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "13.3.5-1@2026-05-01_1777638778",
+    "download_url": "https://github.com/pkgforge-dev/Libation-AppImage/releases/download/13.3.5-1%402026-05-01_1777638778/Libation-13.3.5-1-anylinux-x86_64.AppImage",
+    "size": 84885617,
+    "description": "Unofficial AppImage of Libation [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Libation-AppImage"
+    ]
+  },
+  {
+    "pkg": "defold",
+    "pkg_id": "defold",
+    "pkg_name": "defold",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.12.3.0ad9c86-1@2026-05-01_1777639244",
+    "download_url": "https://github.com/pkgforge-dev/Defold-AppImage/releases/download/1.12.3.0ad9c86-1%402026-05-01_1777639244/Defold-1.12.3.0ad9c86-1-anylinux-x86_64.AppImage",
+    "size": 305304753,
+    "description": "Unofficial AppImage of Defold [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Defold-AppImage"
+    ]
+  },
+  {
+    "pkg": "pyglossary",
+    "pkg_id": "pyglossary",
+    "pkg_name": "pyglossary",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "5.2.1-1@2026-05-01_1777639143",
+    "download_url": "https://github.com/pkgforge-dev/PyGlossary-AppImage/releases/download/5.2.1-1%402026-05-01_1777639143/PyGlossary-5.2.1-1-anylinux-x86_64.AppImage",
+    "size": 44443954,
+    "description": "Unofficial AppImage of PyGlossary [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/PyGlossary-AppImage"
+    ]
+  },
+  {
+    "pkg": "goldendict-ng",
+    "pkg_id": "goldendict-ng",
+    "pkg_name": "goldendict-ng",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "26.5.2-1@2026-05-01_1777638625",
+    "download_url": "https://github.com/pkgforge-dev/GoldenDict-ng-AppImage/releases/download/26.5.2-1%402026-05-01_1777638625/GoldenDict-ng-26.5.2-1-anylinux-x86_64.AppImage",
+    "size": 188788939,
+    "description": "Unofficial AppImage of GoldenDict-ng [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/GoldenDict-ng-AppImage"
+    ]
+  },
+  {
+    "pkg": "moneymanagerex",
+    "pkg_id": "moneymanagerex",
+    "pkg_name": "moneymanagerex",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.9.2-1@2026-05-01_1777638879",
+    "download_url": "https://github.com/pkgforge-dev/MoneyManagerEx-AppImage/releases/download/1.9.2-1%402026-05-01_1777638879/MMEX_Money_Manager-1.9.2-1-anylinux-x86_64.AppImage",
+    "size": 104190794,
+    "description": "Unofficial AppImage of  Money Manager Ex [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/MoneyManagerEx-AppImage"
+    ]
+  },
+  {
+    "pkg": "ffmpeg",
+    "pkg_id": "ffmpeg",
+    "pkg_name": "ffmpeg",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "8.1-3@2026-05-01_1777639217",
+    "download_url": "https://github.com/pkgforge-dev/ffmpeg-AppImage/releases/download/8.1-3%402026-05-01_1777639217/ffmpeg-8.1-3-anylinux-x86_64.AppImage",
+    "size": 56632163,
+    "description": "Unofficial AppImage of ffmpeg [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/ffmpeg-AppImage"
+    ]
+  },
+  {
+    "pkg": "imagemagick",
+    "pkg_id": "imagemagick",
+    "pkg_name": "imagemagick",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "7.1.2.21-1@2026-05-01_1777637962",
+    "download_url": "https://github.com/pkgforge-dev/ImageMagick-AppImage/releases/download/7.1.2.21-1%402026-05-01_1777637962/ImageMagick-7.1.2.21-1-anylinux-x86_64.AppImage",
+    "size": 30067730,
+    "description": "Unofficial AppImage of ImageMagick [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/ImageMagick-AppImage"
+    ]
+  },
+  {
+    "pkg": "riseup-vpn",
+    "pkg_id": "riseup-vpn",
+    "pkg_name": "riseup-vpn",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "0.24.10-1@2026-04-22_1776856623",
+    "download_url": "https://github.com/pkgforge-dev/Riseup-VPN-AppImage/releases/download/0.24.10-1%402026-04-22_1776856623/RiseupVPN-0.24.10-1-anylinux-x86_64.AppImage",
+    "size": 63770771,
+    "description": "Unofficial AppImage of Riseup-VPN [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Riseup-VPN-AppImage"
+    ]
+  },
+  {
+    "pkg": "melonds",
+    "pkg_id": "melonds",
+    "pkg_name": "melonds",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.1-2@2026-05-01_1777638386",
+    "download_url": "https://github.com/pkgforge-dev/melonDS-AppImage-Enhanced/releases/download/1.1-2%402026-05-01_1777638386/melonDS-1.1-2-anylinux-x86_64.AppImage",
+    "size": 62238983,
+    "description": "Unofficial AppImage of melonDS that can work on any linux system [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/melonDS-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "kid3",
+    "pkg_id": "kid3",
+    "pkg_name": "kid3",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "3.9.7-2@2026-05-01_1777639147",
+    "download_url": "https://github.com/pkgforge-dev/Kid3-AppImage/releases/download/3.9.7-2%402026-05-01_1777639147/Kid3-3.9.7-2-anylinux-x86_64.AppImage",
+    "size": 84028956,
+    "description": "Unofficial AppImage of Kid3. [Maintainer=@Samueru-sama] ",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Kid3-AppImage"
+    ]
+  },
+  {
+    "pkg": "element-desktop",
+    "pkg_id": "element-desktop",
+    "pkg_name": "element-desktop",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.12.17@2026-05-01_1777639211",
+    "download_url": "https://github.com/pkgforge-dev/Element-Desktop-AppImage/releases/download/1.12.17%402026-05-01_1777639211/Element-1.12.17-anylinux-x86_64.AppImage",
+    "size": 167613575,
+    "description": "Unofficial AppImage of Element Desktop [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Element-Desktop-AppImage"
+    ]
+  },
+  {
+    "pkg": "qterminal",
+    "pkg_id": "qterminal",
+    "pkg_name": "qterminal",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "2.4.0-1@2026-05-01_1777638242",
+    "download_url": "https://github.com/pkgforge-dev/QTerminal-AppImage/releases/download/2.4.0-1%402026-05-01_1777638242/QTerminal-2.4.0-1-anylinux-x86_64.AppImage",
+    "size": 29610438,
+    "description": "Unofficial AppImage of QTerminal [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/QTerminal-AppImage"
+    ]
+  },
+  {
+    "pkg": "featherpad",
+    "pkg_id": "featherpad",
+    "pkg_name": "featherpad",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.6.3-1@2026-05-01_1777639001",
+    "download_url": "https://github.com/pkgforge-dev/FeatherPad-AppImage/releases/download/1.6.3-1%402026-05-01_1777639001/FeatherPad-1.6.3-1-anylinux-x86_64.AppImage",
+    "size": 33617501,
+    "description": "Unofficial AppImage of FeatherPad [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/FeatherPad-AppImage"
+    ]
+  },
+  {
+    "pkg": "ristretto",
+    "pkg_id": "ristretto",
+    "pkg_name": "ristretto",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "0.14.0-1@2026-03-22_1774173218",
+    "download_url": "https://github.com/pkgforge-dev/Ristretto-AppImage/releases/download/0.14.0-1%402026-03-22_1774173218/Ristretto-0.14.0-1-anylinux-x86_64.AppImage",
+    "size": 31089253,
+    "description": "Unofficial AppImage of the Ristretto Image Viewer [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Ristretto-AppImage"
+    ]
+  },
+  {
+    "pkg": "gwenview",
+    "pkg_id": "gwenview",
+    "pkg_name": "gwenview",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "26.04.0-1@2026-05-01_1777638521",
+    "download_url": "https://github.com/pkgforge-dev/Gwenview-AppImage/releases/download/26.04.0-1%402026-05-01_1777638521/Gwenview-26.04.0-1-anylinux-x86_64.AppImage",
+    "size": 78922135,
+    "description": "Unofficial AppImage of Gwenview [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Gwenview-AppImage"
+    ]
+  },
+  {
+    "pkg": "xournalpp",
+    "pkg_id": "xournalpp",
+    "pkg_name": "xournalpp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.3.4-1@2026-05-01_1777638852",
+    "download_url": "https://github.com/pkgforge-dev/xournalpp-AppImage-Enhanced/releases/download/1.3.4-1%402026-05-01_1777638852/Xournal%2B%2B-1.3.4-1-anylinux-x86_64.AppImage",
+    "size": 37212300,
+    "description": "Unofficial AppImage of xournalpp [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/xournalpp-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "linuxtoys",
+    "pkg_id": "linuxtoys",
+    "pkg_name": "linuxtoys",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "5.7-1@2026-05-01_1777638951",
+    "download_url": "https://github.com/pkgforge-dev/LinuxToys-AppImage/releases/download/5.7-1%402026-05-01_1777638951/LinuxToys-5.7-1-anylinux-x86_64.AppImage",
+    "size": 41263983,
+    "description": "Unofficial AppImage of LinuxToys [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/LinuxToys-AppImage"
+    ]
+  },
+  {
+    "pkg": "telegram",
+    "pkg_id": "telegram",
+    "pkg_name": "telegram",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "6.7.8-1@2026-05-01_1777639071",
+    "download_url": "https://github.com/pkgforge-dev/Telegram-AppImage/releases/download/6.7.8-1%402026-05-01_1777639071/Telegram-6.7.8-1-anylinux-x86_64.AppImage",
+    "size": 194432602,
+    "description": "Unofficial AppImage of Telegram [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Telegram-AppImage"
+    ]
+  },
+  {
+    "pkg": "gopher64",
+    "pkg_id": "gopher64",
+    "pkg_name": "gopher64",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "v1.1.19@2026-05-01_1777638738",
+    "download_url": "https://github.com/pkgforge-dev/Gopher64-AppImage/releases/download/v1.1.19%402026-05-01_1777638738/Gopher64-v1.1.19-anylinux-x86_64.AppImage",
+    "size": 42078566,
+    "description": "Unofficial AppImage of gopher64 [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Gopher64-AppImage"
+    ]
+  },
+  {
+    "pkg": "bulky",
+    "pkg_id": "bulky",
+    "pkg_name": "bulky",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "4.2-1@2026-05-01_1777637825",
+    "download_url": "https://github.com/pkgforge-dev/Bulky-AppImage/releases/download/4.2-1%402026-05-01_1777637825/Bulky-4.2-1-anylinux-x86_64.AppImage",
+    "size": 30787131,
+    "description": "Unofficial AppImage of Bulky [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Bulky-AppImage"
+    ]
+  },
+  {
+    "pkg": "keepassxc",
+    "pkg_id": "keepassxc",
+    "pkg_name": "keepassxc",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "2.7.12-2@2026-05-01_1777638987",
+    "download_url": "https://github.com/pkgforge-dev/KeePassXC-AppImage-Enhanced/releases/download/2.7.12-2%402026-05-01_1777638987/KeePassXC-2.7.12-2-anylinux-x86_64.AppImage",
+    "size": 42146256,
+    "description": "Unofficial AppImage of KeePassXC that can work on any linux system [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/KeePassXC-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "trelby",
+    "pkg_id": "trelby",
+    "pkg_name": "trelby",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "2.4.16.2-1@2026-05-01_1777638879",
+    "download_url": "https://github.com/pkgforge-dev/Trelby-AppImage/releases/download/2.4.16.2-1%402026-05-01_1777638879/Trelby-2.4.16.2-1-anylinux-x86_64.AppImage",
+    "size": 52456786,
+    "description": "Unofficial AppImage of Trelby [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Trelby-AppImage"
+    ]
+  },
+  {
+    "pkg": "quickshell",
+    "pkg_id": "quickshell",
+    "pkg_name": "quickshell",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "0.2.1-6@2026-05-01_1777639212",
+    "download_url": "https://github.com/pkgforge-dev/Quickshell-AppImage/releases/download/0.2.1-6%402026-05-01_1777639212/quickshell-0.2.1-6-anylinux-x86_64.AppImage",
+    "size": 53887703,
+    "description": "Unofficial AppImage of Quickshell [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Quickshell-AppImage"
+    ]
+  },
+  {
+    "pkg": "waydroid",
+    "pkg_id": "waydroid",
+    "pkg_name": "waydroid",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.6.2-1@2026-05-01_1777639268",
+    "download_url": "https://github.com/pkgforge-dev/Waydroid-AppImage/releases/download/1.6.2-1%402026-05-01_1777639268/Waydroid-1.6.2-1-anylinux-x86_64.AppImage",
+    "size": 43710888,
+    "description": "Unofficial AppImage of Waydroid that can also work on x11 [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Waydroid-AppImage"
+    ]
+  },
+  {
+    "pkg": "quickgui",
+    "pkg_id": "quickgui",
+    "pkg_name": "quickgui",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.2.10-1@2026-03-29_1774752771",
+    "download_url": "https://github.com/pkgforge-dev/Quickgui-AppImage-Enhanced/releases/download/1.2.10-1%402026-03-29_1774752771/Quickgui-1.2.10-1-anylinux-x86_64.AppImage",
+    "size": 39626388,
+    "description": "Unofficial AppImage of Quickgui that can work on any linux system [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Quickgui-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "gcstar",
+    "pkg_id": "gcstar",
+    "pkg_name": "gcstar",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.8.0-3@2026-05-01_1777638461",
+    "download_url": "https://github.com/pkgforge-dev/GCstar-AppImage/releases/download/1.8.0-3%402026-05-01_1777638461/GCstar-1.8.0-3-anylinux-x86_64.AppImage",
+    "size": 58223553,
+    "description": "Unofficial AppImage of GCstar [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/GCstar-AppImage"
+    ]
+  },
+  {
+    "pkg": "pdf-arranger",
+    "pkg_id": "pdf-arranger",
+    "pkg_name": "pdf-arranger",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.13.0-1@2026-05-01_1777638639",
+    "download_url": "https://github.com/pkgforge-dev/PDF-Arranger-AppImage/releases/download/1.13.0-1%402026-05-01_1777638639/PDF_Arranger-1.13.0-1-anylinux-x86_64.AppImage",
+    "size": 69421688,
+    "description": "Unofficial AppImage of PDF Arranger [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/PDF-Arranger-AppImage"
+    ]
+  },
+  {
+    "pkg": "pdf-tricks",
+    "pkg_id": "pdf-tricks",
+    "pkg_name": "pdf-tricks",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "0.4.1-1@2026-05-01_1777638550",
+    "download_url": "https://github.com/pkgforge-dev/PDF-Tricks-AppImage/releases/download/0.4.1-1%402026-05-01_1777638550/PDF_Tricks-0.4.1-1-anylinux-x86_64.AppImage",
+    "size": 49089365,
+    "description": "Unofficial AppImage of PDF Tricks [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/PDF-Tricks-AppImage"
+    ]
+  },
+  {
+    "pkg": "shotwell",
+    "pkg_id": "shotwell",
+    "pkg_name": "shotwell",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "0.32.15-2@2026-05-01_1777638099",
+    "download_url": "https://github.com/pkgforge-dev/Shotwell-AppImage/releases/download/0.32.15-2%402026-05-01_1777638099/Shotwell-0.32.15-2-anylinux-x86_64.AppImage",
+    "size": 74043224,
+    "description": "Unofficial AppImage of Shotwell [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Shotwell-AppImage"
+    ]
+  },
+  {
+    "pkg": "copyq",
+    "pkg_id": "copyq",
+    "pkg_name": "copyq",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "15.0.0-1@2026-05-01_1777637837",
+    "download_url": "https://github.com/pkgforge-dev/CopyQ-AppImage/releases/download/15.0.0-1%402026-05-01_1777637837/CopyQ-15.0.0-1-anylinux-x86_64.AppImage",
+    "size": 47622877,
+    "description": "Unofficial AppImage of CopyQ [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/CopyQ-AppImage"
+    ]
+  },
+  {
+    "pkg": "gthumb",
+    "pkg_id": "gthumb",
+    "pkg_name": "gthumb",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "3.12.10-3@2026-05-01_1777639007",
+    "download_url": "https://github.com/pkgforge-dev/gThumb-AppImage/releases/download/3.12.10-3%402026-05-01_1777639007/gThumb-3.12.10-3-anylinux-x86_64.AppImage",
+    "size": 52453952,
+    "description": "Unofficial AppImage of gThumb [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/gThumb-AppImage"
+    ]
+  },
+  {
+    "pkg": "vokoscreenng",
+    "pkg_id": "vokoscreenng",
+    "pkg_name": "vokoscreenng",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "4.9.0-1@2026-05-01_1777639061",
+    "download_url": "https://github.com/pkgforge-dev/vokoscreenNG-AppImage/releases/download/4.9.0-1%402026-05-01_1777639061/vokoscreenNG-4.9.0-1-anylinux-x86_64.AppImage",
+    "size": 95168588,
+    "description": "Unofficial AppImage of vokoscreenNG [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/vokoscreenNG-AppImage"
+    ]
+  },
+  {
+    "pkg": "yt-dlp",
+    "pkg_id": "yt-dlp",
+    "pkg_name": "yt-dlp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "2026.03.17-1@2026-04-09_1775749052",
+    "download_url": "https://github.com/pkgforge-dev/yt-dlp-AppImage/releases/download/2026.03.17-1%402026-04-09_1775749052/yt-dlp-2026.03.17-1-anylinux-x86_64.AppImage",
+    "size": 47029520,
+    "description": "Unofficial AppImage of yt-dlp [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/yt-dlp-AppImage"
+    ]
+  },
+  {
+    "pkg": "media-downloader",
+    "pkg_id": "media-downloader",
+    "pkg_name": "media-downloader",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "5.5.1-1@2026-05-01_1777637948",
+    "download_url": "https://github.com/pkgforge-dev/Media-Downloader-AppImage/releases/download/5.5.1-1%402026-05-01_1777637948/Media_Downloader-5.5.1-1-anylinux-x86_64.AppImage",
+    "size": 91405724,
+    "description": "Unofficial AppImage of Media Downloader [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Media-Downloader-AppImage"
+    ]
+  },
+  {
+    "pkg": "lightzone",
+    "pkg_id": "lightzone",
+    "pkg_name": "lightzone",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "5.0.0beta3-1@2026-05-01_1777638639",
+    "download_url": "https://github.com/pkgforge-dev/LightZone-AppImage/releases/download/5.0.0beta3-1%402026-05-01_1777638639/LightZone-5.0.0beta3-1-anylinux-x86_64.AppImage",
+    "size": 74209019,
+    "description": "Unofficial AppImage of LighZone [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/LightZone-AppImage"
+    ]
+  },
+  {
+    "pkg": "gram",
+    "pkg_id": "gram",
+    "pkg_name": "gram",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "1.2.1-2@2026-05-01_1777639196",
+    "download_url": "https://github.com/pkgforge-dev/Gram-AppImage-Enhanced/releases/download/1.2.1-2%402026-05-01_1777639196/Gram-1.2.1-2-anylinux-x86_64.AppImage",
+    "size": 76006631,
+    "description": "Unofficial AppImage of Gram [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Gram-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "quantumlauncher",
+    "pkg_id": "quantumlauncher",
+    "pkg_name": "quantumlauncher",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "0.5.1-1@2026-05-01_1777638573",
+    "download_url": "https://github.com/pkgforge-dev/QuantumLauncher-AppImage-Enhanced/releases/download/0.5.1-1%402026-05-01_1777638573/QuantumLauncher-0.5.1-1-anylinux-x86_64.AppImage",
+    "size": 32778330,
+    "description": "Unofficial AppImage of QuantumLauncher that is able to work on any linux system [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/QuantumLauncher-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "luanti",
+    "pkg_id": "luanti",
+    "pkg_name": "luanti",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "5.15.1-1@2026-05-01_1777638608",
+    "download_url": "https://github.com/pkgforge-dev/Luanti-AppImage/releases/download/5.15.1-1%402026-05-01_1777638608/Luanti-5.15.1-1-anylinux-x86_64.AppImage",
+    "size": 37487636,
+    "description": "Unofficial AppImage of Luanti (Minetest) [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Luanti-AppImage"
+    ]
+  },
+  {
+    "pkg": "orcaslicer",
+    "pkg_id": "orcaslicer",
+    "pkg_name": "orcaslicer",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "2.3.2-6@2026-05-01_1777640547",
+    "download_url": "https://github.com/pkgforge-dev/OrcaSlicer-AppImage-Enhanced/releases/download/2.3.2-6%402026-05-01_1777640547/OrcaSlicer-2.3.2-6-anylinux-x86_64.AppImage",
+    "size": 198827138,
+    "description": "Improved AppImage of OrcaSlicer which is able to work on any linux system [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/OrcaSlicer-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "slack",
+    "pkg_id": "slack",
+    "pkg_name": "slack",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "4.49.81-1@2026-05-01_1777638269",
+    "download_url": "https://github.com/pkgforge-dev/Slack-AppImage/releases/download/4.49.81-1%402026-05-01_1777638269/Slack-4.49.81-1-anylinux-x86_64.AppImage",
+    "size": 133893684,
+    "description": "Unofficial AppImage of Slack [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Slack-AppImage"
+    ]
+  },
+  {
+    "pkg": "obsidian",
+    "pkg_id": "obsidian",
+    "pkg_name": "obsidian",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "v1.12.7@2026-05-01_1777638438",
+    "download_url": "https://github.com/pkgforge-dev/Obsidian-AppImage-Enhanced/releases/download/v1.12.7%402026-05-01_1777638438/Obsidian-v1.12.7-anylinux-x86_64.AppImage",
+    "size": 137277006,
+    "description": "Unofficial AppImage of Obsidian that can work on any linux system [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Obsidian-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "gpodder",
+    "pkg_id": "gpodder",
+    "pkg_name": "gpodder",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "3.11.5-3@2026-05-01_1777639163",
+    "download_url": "https://github.com/pkgforge-dev/gPodder-AppImage/releases/download/3.11.5-3%402026-05-01_1777639163/gPodder-3.11.5-3-anylinux-x86_64.AppImage",
+    "size": 32273477,
+    "description": "Unofficial AppImage of gPodder [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/gPodder-AppImage"
+    ]
+  },
+  {
+    "pkg": "bitwarden",
+    "pkg_id": "bitwarden",
+    "pkg_name": "bitwarden",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "v2026.3.1@2026-05-01_1777638734",
+    "download_url": "https://github.com/pkgforge-dev/Bitwarden-AppImage-Enhanced/releases/download/v2026.3.1%402026-05-01_1777638734/Bitwarden-v2026.3.1-anylinux-x86_64.AppImage",
+    "size": 143200299,
+    "description": "Unofficial AppImage of Bitwarden that can work on any linux system [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Bitwarden-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "parabolic",
+    "pkg_id": "parabolic",
+    "pkg_name": "parabolic",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "2026.2.4-1@2026-04-21_1776746649",
+    "download_url": "https://github.com/pkgforge-dev/Parabolic-AppImage/releases/download/2026.2.4-1%402026-04-21_1776746649/Parabolic-2026.2.4-1-anylinux-x86_64.AppImage",
+    "size": 114079666,
+    "description": "Unofficial AppImage of Parabolic [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Parabolic-AppImage"
+    ]
+  },
+  {
+    "pkg": "planify",
+    "pkg_id": "planify",
+    "pkg_name": "planify",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "4.19.1-1@2026-05-01_1777639172",
+    "download_url": "https://github.com/pkgforge-dev/Planify-AppImage/releases/download/4.19.1-1%402026-05-01_1777639172/Planify-4.19.1-1-anylinux-x86_64.AppImage",
+    "size": 45641745,
+    "description": "Unofficial AppImage of Planify [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Planify-AppImage"
+    ]
+  },
+  {
+    "pkg": "cubyz",
+    "pkg_id": "cubyz",
+    "pkg_name": "cubyz",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "0.2.0-1@2026-05-01_1777632769",
+    "download_url": "https://github.com/pkgforge-dev/Cubyz-AppImage/releases/download/0.2.0-1%402026-05-01_1777632769/Cubyz-0.2.0-1-anylinux-x86_64.AppImage",
+    "size": 125314840,
+    "description": "Unofficial AppImage of Cubyz [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Cubyz-AppImage"
+    ]
+  },
+  {
+    "pkg": "simplex-chat",
+    "pkg_id": "simplex-chat",
+    "pkg_name": "simplex-chat",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "v6.5.0@2026-05-01_1777638879",
+    "download_url": "https://github.com/pkgforge-dev/SimpleX-Chat-AppImage-Enhanced/releases/download/v6.5.0%402026-05-01_1777638879/simplex-v6.5.0-anylinux-x86_64.AppImage",
+    "size": 346375844,
+    "description": "Unofficial AppImage of Simplex Chat that can work on any linux system [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/SimpleX-Chat-AppImage-Enhanced"
+    ]
+  },
+  {
+    "pkg": "asphyxia-core",
+    "pkg_id": "asphyxia-core",
+    "pkg_name": "asphyxia-core",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "v1.60b@2026-05-01_1777638672",
+    "download_url": "https://github.com/pkgforge-dev/Asphyxia-CORE-AppImage/releases/download/v1.60b%402026-05-01_1777638672/asphyxia-core-v1.60b-anylinux-x86_64.AppImage",
+    "size": 23605578,
+    "description": "Unofficial AppImage of Asphyxia CORE [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/Asphyxia-CORE-AppImage"
+    ]
+  },
+  {
+    "pkg": "gamescope",
+    "pkg_id": "gamescope",
+    "pkg_name": "gamescope",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "3.16.23-1@2026-05-01_1777656990",
+    "download_url": "https://github.com/pkgforge-dev/gamescope-AppImage/releases/download/3.16.23-1%402026-05-01_1777656990/gamescope-3.16.23-1-anylinux-x86_64.AppImage",
+    "size": 43017358,
+    "description": "Unofficial AppImage of gamescope [Maintainer=@Samueru-sama]",
+    "src_url": [
+      "https://github.com/pkgforge-dev/gamescope-AppImage"
+    ]
+  }
+]

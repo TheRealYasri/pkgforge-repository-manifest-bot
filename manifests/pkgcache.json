@@ -1,0 +1,4530 @@
+[
+  {
+    "pkg": "0ad",
+    "pkg_id": "0ad",
+    "pkg_name": "0ad",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A FOSS historical Real Time Strategy (RTS) game [prerelease]",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/0ad/appimage.0ad-matters.prerelease.yaml"
+    ]
+  },
+  {
+    "pkg": "0ad",
+    "pkg_id": "0ad",
+    "pkg_name": "0ad",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A FOSS historical Real Time Strategy (RTS) game",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/0ad/appimage.0ad-matters.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "86box",
+    "pkg_id": "86box",
+    "pkg_name": "86box",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Emulator of x86-based machines",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/86box/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "9launcher",
+    "pkg_id": "9launcher",
+    "pkg_name": "9launcher",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "An actively maintained and cross platform remake of Touhou Relauncher",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/9launcher/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "aaaaxy",
+    "pkg_id": "aaaaxy",
+    "pkg_name": "aaaaxy",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A nonlinear 2D puzzle platformer taking place in impossible spaces",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/aaaaxy/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "abiword",
+    "pkg_id": "abiword",
+    "pkg_name": "abiword",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A nonlinear 2D puzzle platformer taking place in impossible spaces",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/abiword/appimage.ivan-hc.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "acreom",
+    "pkg_id": "acreom",
+    "pkg_name": "acreom",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "An IDE based Knowledge Base using Markdown",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/acreom/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "actual",
+    "pkg_id": "actual",
+    "pkg_name": "actual",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Privacy-focused app for managing your finances",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/actual/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "advanced-passgen",
+    "pkg_id": "advanced-passgen",
+    "pkg_name": "advanced-passgen",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Advanced Password Generator",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/advanced-passgen/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "advanced-rest-client",
+    "pkg_id": "advanced-rest-client",
+    "pkg_name": "advanced-rest-client",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A developer tool to test a HTTP request",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/advanced-rest-client/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "affine",
+    "pkg_id": "affine",
+    "pkg_name": "affine",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "FOSS Knowledge Base with fully merged docs, whiteboards and databases [canary-1]",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/affine/appimage.official.canary-1.yaml"
+    ]
+  },
+  {
+    "pkg": "affine",
+    "pkg_id": "affine",
+    "pkg_name": "affine",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "FOSS Knowledge Base with fully merged docs, whiteboards and databases [canary-2]",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/affine/appimage.official.canary-2.yaml"
+    ]
+  },
+  {
+    "pkg": "affine",
+    "pkg_id": "affine",
+    "pkg_name": "affine",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "FOSS Knowledge Base with fully merged docs, whiteboards and databases",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/affine/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "agregore",
+    "pkg_id": "agregore",
+    "pkg_name": "agregore",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A minimal browser for the distributed web",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/agregore/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "air-controller-desktop",
+    "pkg_id": "air-controller-desktop",
+    "pkg_name": "air-controller-desktop",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A new handy and powerful Android phone assistant",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/air-controller-desktop/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "aisleriot",
+    "pkg_id": "aisleriot",
+    "pkg_name": "aisleriot",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Collection of solitaire and other card games",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/aisleriot/appimage.ivan-hc.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "akregator",
+    "pkg_id": "akregator",
+    "pkg_name": "akregator",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "KDE RSS feed reader",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/akregator/runimage.alpine.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "akuse",
+    "pkg_id": "akuse",
+    "pkg_name": "akuse",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Simple and easy to use anime streaming desktop app without ads",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/akuse/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "alexandria",
+    "pkg_id": "alexandria",
+    "pkg_name": "alexandria",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A minimalistic eBook reader",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/alexandria/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "allusion",
+    "pkg_id": "allusion",
+    "pkg_name": "allusion",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A free and open source desktop application for managing your visual library",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/allusion/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "altair",
+    "pkg_id": "altair",
+    "pkg_name": "altair",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A beautiful feature-rich GraphQL Client",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/altair/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "altus",
+    "pkg_id": "altus",
+    "pkg_name": "altus",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Desktop client for WhatsApp Web with themes, notifications and multiple account support",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/altus/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "amdgpu_top",
+    "pkg_id": "amdgpu_top",
+    "pkg_name": "amdgpu_top",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tool to display AMDGPU usage",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/amdgpu_top/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "android-messages",
+    "pkg_id": "android-messages",
+    "pkg_name": "android-messages",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Android Messages as a Cross-platform Desktop App",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/android-messages/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "android-tools",
+    "pkg_id": "android-tools",
+    "pkg_name": "android-tools",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Android SDK Platform-Tools (adb, fastboot & more)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/android-tools/appimage.pkgforge-dev.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "anipy-cli",
+    "pkg_id": "anipy-cli",
+    "pkg_name": "anipy-cli",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Watch and Download Anime from the terminal",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/anipy-cli/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "appimagetool",
+    "pkg_id": "appimagetool",
+    "pkg_name": "appimagetool",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Generate an AppImage from an existing AppDir",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/appimagetool/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "apprise",
+    "pkg_id": "apprise",
+    "pkg_name": "apprise",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Send notifications from the command-line to popular notification services",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/apprise/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "apptainer",
+    "pkg_id": "apptainer",
+    "pkg_name": "apptainer",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Standalone Linux Container Alternative to docker/podman that runs anywhere with 0 Dependency",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/apptainer/archive.wrappe.glibc.yaml"
+    ]
+  },
+  {
+    "pkg": "apptainer",
+    "pkg_id": "apptainer",
+    "pkg_name": "apptainer",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Standalone Linux Container Alternative to docker/podman that runs anywhere with 0 Dependency",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/apptainer/archive.wrappe.musl.yaml"
+    ]
+  },
+  {
+    "pkg": "aqtinstall",
+    "pkg_id": "aqtinstall",
+    "pkg_name": "aqtinstall",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Qt CLI Installer on multi-platforms",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/aqtinstall/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "archey",
+    "pkg_id": "archey",
+    "pkg_name": "archey",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A simple system information tool written in Python",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/archey/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "archey",
+    "pkg_id": "archey",
+    "pkg_name": "archey",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A simple system information tool written in Python",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/archey/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "audiobook-dl",
+    "pkg_id": "audiobook-dl",
+    "pkg_name": "audiobook-dl",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Audiobook CLI downloader",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/audiobook-dl/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "awscli",
+    "pkg_id": "awscli",
+    "pkg_name": "awscli",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Universal Command Line Interface for Amazon Web Services",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/awscli/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "baddns",
+    "pkg_id": "baddns",
+    "pkg_name": "baddns",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tool to check subdomains for subdomain takeovers and other DNS issues",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/baddns/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "bear",
+    "pkg_id": "bear",
+    "pkg_name": "bear",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Generate a compilation database for clang tooling",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/bear/appimage.ppkg.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "beet",
+    "pkg_id": "beet",
+    "pkg_name": "beet",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Flexible music library manager and tagger",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/beet/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "binutils",
+    "pkg_id": "binutils",
+    "pkg_name": "binutils",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tools for manipulating binaries (linker, assembler, etc.) [alias=bintools]",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/binutils/appimage.ppkg.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "blender",
+    "pkg_id": "blender",
+    "pkg_name": "blender",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A fully integrated 3D graphics creation suite",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/blender/runimage.debian.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "brave",
+    "pkg_id": "brave",
+    "pkg_name": "brave",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Privacy-oriented browser for Desktop and Laptop computers (Beta)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/brave/appimage.srevinsaju.beta.yaml"
+    ]
+  },
+  {
+    "pkg": "brave",
+    "pkg_id": "brave",
+    "pkg_name": "brave",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Privacy-oriented browser for Desktop and Laptop computers (Nightly)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/brave/appimage.srevinsaju.nightly.yaml"
+    ]
+  },
+  {
+    "pkg": "brave",
+    "pkg_id": "brave",
+    "pkg_name": "brave",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Privacy-oriented browser for Desktop and Laptop computers",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/brave/appimage.srevinsaju.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "brave",
+    "pkg_id": "brave",
+    "pkg_name": "brave",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Privacy-oriented browser for Desktop and Laptop computers",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/brave/nixappimage.nixpkgs.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "caido-cli",
+    "pkg_id": "caido-cli",
+    "pkg_name": "caido-cli",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "CLI for Caido: Lightweight web security auditing toolkit",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/caido-cli/archive.sharun.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "caido",
+    "pkg_id": "caido",
+    "pkg_name": "caido",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Lightweight web security auditing toolkit",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/caido/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "certbot",
+    "pkg_id": "certbot",
+    "pkg_name": "certbot",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tool to obtain certificates from Lets Encrypt and other ACME compliant CAs",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/certbot/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "chafa",
+    "pkg_id": "chafa",
+    "pkg_name": "chafa",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Command-line utility for displaying images in a terminal",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/chafa/archive.sharun.alpine.yaml"
+    ]
+  },
+  {
+    "pkg": "chromium",
+    "pkg_id": "chromium",
+    "pkg_name": "chromium",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Open source web browser from Google (Stable)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/chromium/nixappimage.nixpkgs.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "chromium",
+    "pkg_id": "chromium",
+    "pkg_name": "chromium",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Open source web browser from Google, with dependencies on Google web services removed (Ungoogled)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/chromium/nixappimage.nixpkgs.ungoogled.yaml"
+    ]
+  },
+  {
+    "pkg": "ciphey",
+    "pkg_id": "ciphey",
+    "pkg_name": "ciphey",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ciphey/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "citron",
+    "pkg_id": "citron",
+    "pkg_name": "citron",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Nintendo Switch emulator forked from yuzu",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/citron/appimage.pkgforge-dev.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "citron",
+    "pkg_id": "citron",
+    "pkg_name": "citron",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Nintendo Switch emulator forked from yuzu (x86-64-v3)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/citron/appimage.pkgforge-dev.v3.yaml"
+    ]
+  },
+  {
+    "pkg": "clamtk",
+    "pkg_id": "clamtk",
+    "pkg_name": "clamtk",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "GTK front-end for Clam Antivirus",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/clamtk/runimage.debian.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "cloudflare-warp",
+    "pkg_id": "cloudflare-warp",
+    "pkg_name": "cloudflare-warp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Free VPN-like service that secures and optimizes internet traffic using Cloudflare's network",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/cloudflare-warp/archive.sharun.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "cmake",
+    "pkg_id": "cmake",
+    "pkg_name": "cmake",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Cross-platform, open-source build system",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/cmake/appimage.ppkg.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "code-server",
+    "pkg_id": "code-server",
+    "pkg_name": "code-server",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Run VS Code on any machine anywhere and access it in the browser",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/code-server/archive.wrappe.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "commix",
+    "pkg_id": "commix",
+    "pkg_name": "commix",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Automated All-in-One OS Command Injection and Exploitation Tool",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/commix/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "compiledb",
+    "pkg_id": "compiledb",
+    "pkg_name": "compiledb",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Generate Clang's JSON Compilation Database files for make-based build systems",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/compiledb/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "crave",
+    "pkg_id": "crave",
+    "pkg_name": "crave",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "CLI Client for Crave.io",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/crave/archive.sharun.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "credsweeper",
+    "pkg_id": "credsweeper",
+    "pkg_name": "credsweeper",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tool to detect credentials in any directories or files",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/credsweeper/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "cromite",
+    "pkg_id": "cromite",
+    "pkg_name": "cromite",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A Bromite fork with ad blocking and privacy enhancements",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/cromite/appimage.pkgforge-dev.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "ddgr",
+    "pkg_id": "ddgr",
+    "pkg_name": "ddgr",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "DuckDuckGo from the terminal",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ddgr/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "ddnet",
+    "pkg_id": "ddnet",
+    "pkg_name": "ddnet",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Cooperative online platform game based on Teeworlds",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ddnet/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "deltapatcher",
+    "pkg_id": "deltapatcher",
+    "pkg_name": "deltapatcher",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "GUI to create and apply xdelta patches",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/deltapatcher/runimage.debian.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "discord",
+    "pkg_id": "discord",
+    "pkg_name": "discord",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "All-in-one cross-platform voice and text chat for gamers (Canary)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/discord/appimage.srevinsaju.canary.yaml"
+    ]
+  },
+  {
+    "pkg": "discord",
+    "pkg_id": "discord",
+    "pkg_name": "discord",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "All-in-one cross-platform voice and text chat for gamers (Public Test Beta)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/discord/appimage.srevinsaju.ptb.yaml"
+    ]
+  },
+  {
+    "pkg": "discord",
+    "pkg_id": "discord",
+    "pkg_name": "discord",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "All-in-one cross-platform voice and text chat for gamers",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/discord/appimage.srevinsaju.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "discord",
+    "pkg_id": "discord",
+    "pkg_name": "discord",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "All-in-one cross-platform voice and text chat for gamers (Canary)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/discord/nixappimage.nixpkgs.canary.yaml"
+    ]
+  },
+  {
+    "pkg": "discord",
+    "pkg_id": "discord",
+    "pkg_name": "discord",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "All-in-one cross-platform voice and text chat for gamers (Development)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/discord/nixappimage.nixpkgs.development.yaml"
+    ]
+  },
+  {
+    "pkg": "discord",
+    "pkg_id": "discord",
+    "pkg_name": "discord",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "All-in-one cross-platform voice and text chat for gamers (Public Test Beta)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/discord/nixappimage.nixpkgs.ptb.yaml"
+    ]
+  },
+  {
+    "pkg": "discord",
+    "pkg_id": "discord",
+    "pkg_name": "discord",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "All-in-one cross-platform voice and text chat for gamers",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/discord/nixappimage.nixpkgs.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "dnsvalidator",
+    "pkg_id": "dnsvalidator",
+    "pkg_name": "dnsvalidator",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tool to validate, verify & maintain a list of IPv4 DNS servers",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/dnsvalidator/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "dotbins",
+    "pkg_id": "dotbins",
+    "pkg_name": "dotbins",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Manage CLI tool binaries in your dotfiles repository",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/dotbins/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "dvc",
+    "pkg_id": "dvc",
+    "pkg_name": "dvc",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A version control system and experiment tracker designed for machine learning projects",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/dvc/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "dvc",
+    "pkg_id": "dvc",
+    "pkg_name": "dvc",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A version control system and experiment tracker designed for machine learning projects",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/dvc/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "electron-mail",
+    "pkg_id": "electron-mail",
+    "pkg_name": "electron-mail",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Unofficial ProtonMail Desktop App",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/electron-mail/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "element-desktop",
+    "pkg_id": "element-desktop",
+    "pkg_name": "element-desktop",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A glossy Matrix collaboration client for desktop",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/element-desktop/runimage.alpine.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "emailfinder",
+    "pkg_id": "emailfinder",
+    "pkg_name": "emailfinder",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Search emails from a domain through search engines",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/emailfinder/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "escrcpy",
+    "pkg_id": "escrcpy",
+    "pkg_name": "escrcpy",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Graphical Scrcpy to display and control Android, devices",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/escrcpy/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "falkon",
+    "pkg_id": "falkon",
+    "pkg_name": "falkon",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Fast, lightweight web browser based on QtWebEngine",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/falkon/runimage.alpine.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "fanficfare",
+    "pkg_id": "fanficfare",
+    "pkg_name": "fanficfare",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tool to make eBooks from stories on fanfiction and other websites",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/fanficfare/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "fastfetch",
+    "pkg_id": "fastfetch",
+    "pkg_name": "fastfetch",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Fast and feature-rich tool displaying system information",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/fastfetch/archive.sharun.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "fdm",
+    "pkg_id": "fdm",
+    "pkg_name": "fdm",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A powerful modern download accelerator and organizer",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/fdm/archive.wrappe.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "fdm",
+    "pkg_id": "fdm",
+    "pkg_name": "fdm",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A powerful modern download accelerator and organizer",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/fdm/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "fdm",
+    "pkg_id": "fdm",
+    "pkg_name": "fdm",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A powerful modern download accelerator and organizer",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/fdm/runimage.debian.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "ffdec",
+    "pkg_id": "ffdec",
+    "pkg_name": "ffdec",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Open source Flash SWF decompiler and editor",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ffdec/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "file",
+    "pkg_id": "file",
+    "pkg_name": "file",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Determine the type of a file from its contents",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/file/appimage.ppkg.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "firefox",
+    "pkg_id": "firefox",
+    "pkg_name": "firefox",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A web browser built from Firefox source tree (Beta)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/firefox/appimage.srevinsaju.beta.yaml"
+    ]
+  },
+  {
+    "pkg": "firefox",
+    "pkg_id": "firefox",
+    "pkg_name": "firefox",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A web browser built from Firefox source tree (DEV)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/firefox/appimage.srevinsaju.dev.yaml"
+    ]
+  },
+  {
+    "pkg": "firefox",
+    "pkg_id": "firefox",
+    "pkg_name": "firefox",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A web browser built from Firefox source tree (ESR)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/firefox/appimage.srevinsaju.esr.yaml"
+    ]
+  },
+  {
+    "pkg": "firefox",
+    "pkg_id": "firefox",
+    "pkg_name": "firefox",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A web browser built from Firefox source tree (Nightly)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/firefox/appimage.srevinsaju.nightly.yaml"
+    ]
+  },
+  {
+    "pkg": "firefox",
+    "pkg_id": "firefox",
+    "pkg_name": "firefox",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A web browser built from Firefox source tree",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/firefox/appimage.srevinsaju.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "flameshot",
+    "pkg_id": "flameshot",
+    "pkg_name": "flameshot",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Powerful yet simple to use screenshot software",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/flameshot/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "flameshot",
+    "pkg_id": "flameshot",
+    "pkg_name": "flameshot",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Powerful and simple to use screenshot software",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/flameshot/nixappimage.nixpkgs.unstable.yaml"
+    ]
+  },
+  {
+    "pkg": "freerdp",
+    "pkg_id": "freerdp",
+    "pkg_name": "freerdp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Free implementation of the Remote Desktop Protocol",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/freerdp/appimage.ppkg.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "funkin",
+    "pkg_id": "funkin",
+    "pkg_name": "funkin",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Friday Night Funkin: A rhythm game",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/funkin/runimage.debian.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "gcc",
+    "pkg_id": "gcc",
+    "pkg_name": "gcc",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "GNU Compiler Collection",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gcc/appimage.ppkg.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "gearlever",
+    "pkg_id": "gearlever",
+    "pkg_name": "gearlever",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Manage AppImages with ease",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gearlever/nixappimage.nixpkgs.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "getaltname",
+    "pkg_id": "getaltname",
+    "pkg_name": "getaltname",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Extract subdomains from SSL certificates in HTTPS sites",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/getaltname/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "ghauri",
+    "pkg_id": "ghauri",
+    "pkg_name": "ghauri",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tool for detecting and exploiting SQL injection security flaws",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ghauri/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "ghex",
+    "pkg_id": "ghex",
+    "pkg_name": "ghex",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A simple Binary/Hex editor",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ghex/runimage.alpine.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "ghidra",
+    "pkg_id": "ghidra",
+    "pkg_name": "ghidra",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Software reverse engineering (SRE) suite of tools",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ghidra/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "ghostty-nightly",
+    "pkg_id": "ghostty-nightly",
+    "pkg_name": "ghostty-nightly",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Fast, native, feature-rich terminal emulator pushing modern features (Nightly)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ghostty-nightly/appimage.pkgforge-dev.nightly.yaml"
+    ]
+  },
+  {
+    "pkg": "ghostty-nightly",
+    "pkg_id": "ghostty-nightly",
+    "pkg_name": "ghostty-nightly",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Fast, native, feature-rich terminal emulator pushing modern features (Experimental Nightly)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ghostty-nightly/appimage.pkgforge-dev.nightly-glfw.yaml"
+    ]
+  },
+  {
+    "pkg": "ghostty",
+    "pkg_id": "ghostty",
+    "pkg_name": "ghostty",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Fast, native, feature-rich terminal emulator pushing modern features",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ghostty/appimage.pkgforge-dev.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "ghostty",
+    "pkg_id": "ghostty",
+    "pkg_name": "ghostty",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Fast, native, feature-rich terminal emulator pushing modern features (Experimental)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ghostty/appimage.pkgforge-dev.stable-glfw.yaml"
+    ]
+  },
+  {
+    "pkg": "gimp",
+    "pkg_id": "gimp",
+    "pkg_name": "gimp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "The GNU Image Manipulation Program (Dev)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gimp/appimage.ivan-hc.dev.yaml"
+    ]
+  },
+  {
+    "pkg": "gimp",
+    "pkg_id": "gimp",
+    "pkg_name": "gimp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "The GNU Image Manipulation Program (Git)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gimp/appimage.ivan-hc.git.yaml"
+    ]
+  },
+  {
+    "pkg": "gimp",
+    "pkg_id": "gimp",
+    "pkg_name": "gimp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "The GNU Image Manipulation Program",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gimp/appimage.ivan-hc.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "gimp",
+    "pkg_id": "gimp",
+    "pkg_name": "gimp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "GNU Image Manipulation Program",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gimp/appimage.pkgforge-dev.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "gimp",
+    "pkg_id": "gimp",
+    "pkg_name": "gimp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "The GNU Image Manipulation Program (Git)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gimp/runimage.cachyos.git.yaml"
+    ]
+  },
+  {
+    "pkg": "gimp",
+    "pkg_id": "gimp",
+    "pkg_name": "gimp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "The GNU Image Manipulation Program",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gimp/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "git-dumper",
+    "pkg_id": "git-dumper",
+    "pkg_name": "git-dumper",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A tool to dump a git repository from a website",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/git-dumper/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "git",
+    "pkg_id": "git",
+    "pkg_name": "git",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Fast, scalable, distributed revision control system",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/git/appimage.ppkg.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "git",
+    "pkg_id": "git",
+    "pkg_name": "git",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Fast, scalable, distributed revision control system",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/git/runimage.alpine.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "gnome-boxes",
+    "pkg_id": "gnome-boxes",
+    "pkg_name": "gnome-boxes",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "View, access, and manage Remote/Virtual systems",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gnome-boxes/appimage.ivan-hc.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "gnome-boxes",
+    "pkg_id": "gnome-boxes",
+    "pkg_name": "gnome-boxes",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "View, access, and manage Remote/Virtual systems",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gnome-boxes/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "goverlay",
+    "pkg_id": "goverlay",
+    "pkg_name": "goverlay",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "GUI for configuring Vulkan/OpenGL overlays (nightly)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/goverlay/appimage.official.nightly.yaml"
+    ]
+  },
+  {
+    "pkg": "goverlay",
+    "pkg_id": "goverlay",
+    "pkg_name": "goverlay",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "GUI for configuring Vulkan/OpenGL overlays",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/goverlay/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "goverlay",
+    "pkg_id": "goverlay",
+    "pkg_name": "goverlay",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "GUI for configuring Vulkan/OpenGL overlays (Git)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/goverlay/runimage.cachyos.git.yaml"
+    ]
+  },
+  {
+    "pkg": "goverlay",
+    "pkg_id": "goverlay",
+    "pkg_name": "goverlay",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "GUI for configuring Vulkan/OpenGL overlays",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/goverlay/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "gpt4all",
+    "pkg_id": "gpt4all",
+    "pkg_name": "gpt4all",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Free-to-use, locally running, privacy-aware chatbot (Git)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gpt4all/runimage.cachyos.git.yaml"
+    ]
+  },
+  {
+    "pkg": "gptme",
+    "pkg_id": "gptme",
+    "pkg_name": "gptme",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "AI assistant in your terminal",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gptme/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "gtts-cli",
+    "pkg_id": "gtts-cli",
+    "pkg_name": "gtts-cli",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Create an mp3 file from spoken text via the Google TTS API",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gtts-cli/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "guarddog",
+    "pkg_id": "guarddog",
+    "pkg_name": "guarddog",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "CLI tool to Identify malicious PyPI and npm packages",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/guarddog/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "gzdoom",
+    "pkg_id": "gzdoom",
+    "pkg_name": "gzdoom",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Feature centric port for all Doom engine games",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/gzdoom/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "haguichi",
+    "pkg_id": "haguichi",
+    "pkg_name": "haguichi",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Graphical frontend for Hamachi",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/haguichi/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "helix",
+    "pkg_id": "helix",
+    "pkg_name": "helix",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Fast modal terminal-based text editor",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/helix/nixappimage.nixpkgs.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "httpie",
+    "pkg_id": "httpie",
+    "pkg_name": "httpie",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Modern, user-friendly command-line HTTP client for the API era",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/httpie/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "huggingface-cli",
+    "pkg_id": "huggingface-cli",
+    "pkg_name": "huggingface-cli",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "The official Python client for the Huggingface Hub",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/huggingface-cli/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "hwinfo",
+    "pkg_id": "hwinfo",
+    "pkg_name": "hwinfo",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Hardware information tool",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/hwinfo/archive.sharun.alpine.yaml"
+    ]
+  },
+  {
+    "pkg": "image-bootstrap",
+    "pkg_id": "image-bootstrap",
+    "pkg_name": "image-bootstrap",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Generate Bootable Virtual Machine Images and write them to a Block Device",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/image-bootstrap/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "inkscape",
+    "pkg_id": "inkscape",
+    "pkg_name": "inkscape",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "FOSS Vector Graphics Editor",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/inkscape/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "inkscape",
+    "pkg_id": "inkscape",
+    "pkg_name": "inkscape",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "FOSS Vector Graphics Editor",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/inkscape/runimage.alpine.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "interlace",
+    "pkg_id": "interlace",
+    "pkg_name": "interlace",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Easily turn single threaded CLIs into a fast, multi-threaded application with CIDR and glob support",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/interlace/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "isd",
+    "pkg_id": "isd",
+    "pkg_name": "isd",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "TUI to interactively work with systemd units",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/isd/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "isort",
+    "pkg_id": "isort",
+    "pkg_name": "isort",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Sort Python imports automatically",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/isort/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "jc",
+    "pkg_id": "jc",
+    "pkg_name": "jc",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Convert the output of command-line tools to JSON",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/jc/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "jless",
+    "pkg_id": "jless",
+    "pkg_name": "jless",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Command-line pager for JSON data",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/jless/appimage.ppkg.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "jrnl",
+    "pkg_id": "jrnl",
+    "pkg_name": "jrnl",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Command line journal application that stores your journal in a plain text file",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/jrnl/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "kdenlive",
+    "pkg_id": "kdenlive",
+    "pkg_name": "kdenlive",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "FOSS video editor, based on MLT Framework and KDE Frameworks (Nightly)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/kdenlive/appimage.official.nightly.yaml"
+    ]
+  },
+  {
+    "pkg": "kdenlive",
+    "pkg_id": "kdenlive",
+    "pkg_name": "kdenlive",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "FOSS video editor, based on MLT Framework and KDE Frameworks",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/kdenlive/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "kdenlive",
+    "pkg_id": "kdenlive",
+    "pkg_name": "kdenlive",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "FOSS video editor, based on MLT Framework and KDE Frameworks",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/kdenlive/runimage.alpine.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "kdeutils",
+    "pkg_id": "kdeutils",
+    "pkg_name": "kdeutils",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Collection of utilities for KDE",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/kdeutils/appimage.ivan-hc.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "kdeutils",
+    "pkg_id": "kdeutils",
+    "pkg_name": "kdeutils",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Collection of utilities for KDE",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/kdeutils/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "keepalived",
+    "pkg_id": "keepalived",
+    "pkg_name": "keepalived",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Health Checking for Linux Virtual Server & High-Availability",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/keepalived/appimage.ppkg.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "klp",
+    "pkg_id": "klp",
+    "pkg_name": "klp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "CLI viewer for structured log files and streams (logfmt, JSONL and many others)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/klp/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "android-knot",
+    "pkg_id": "android-knot",
+    "pkg_name": "android-knot",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Record everything in the simplest way possible",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/android-knot/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "krita",
+    "pkg_id": "krita",
+    "pkg_name": "krita",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A free and open source painting application (Alpha/Next)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/krita/appimage.official.next.yaml"
+    ]
+  },
+  {
+    "pkg": "krita",
+    "pkg_id": "krita",
+    "pkg_name": "krita",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A free and open source painting application",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/krita/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "krita",
+    "pkg_id": "krita",
+    "pkg_name": "krita",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A free and open source painting application",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/krita/runimage.alpine.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "lact",
+    "pkg_id": "lact",
+    "pkg_name": "lact",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Linux GPU Control Application",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/lact/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "lazarus",
+    "pkg_id": "lazarus",
+    "pkg_name": "lazarus",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Portable Delphi-like IDE for the FreePascal compiler",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/lazarus/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "lazarus",
+    "pkg_id": "lazarus",
+    "pkg_name": "lazarus",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Portable Delphi-like IDE for the FreePascal compiler",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/lazarus/runimage.debian.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "lftp",
+    "pkg_id": "lftp",
+    "pkg_name": "lftp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A sophisticated ftp/sftp/http/https/torrent client and file transfer program",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/lftp/static.ppkg.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "libreoffice",
+    "pkg_id": "libreoffice",
+    "pkg_name": "libreoffice",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A free and open source painting application (fresh-basic)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/libreoffice/appimage.official.fresh-basic.yaml"
+    ]
+  },
+  {
+    "pkg": "libreoffice",
+    "pkg_id": "libreoffice",
+    "pkg_name": "libreoffice",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A free and open source painting application (fresh-full)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/libreoffice/appimage.official.fresh-full.yaml"
+    ]
+  },
+  {
+    "pkg": "libreoffice",
+    "pkg_id": "libreoffice",
+    "pkg_name": "libreoffice",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A free and open source painting application (fresh-standard)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/libreoffice/appimage.official.fresh-standard.yaml"
+    ]
+  },
+  {
+    "pkg": "libreoffice",
+    "pkg_id": "libreoffice",
+    "pkg_name": "libreoffice",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A free and open source painting application (still-basic)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/libreoffice/appimage.official.still-basic.yaml"
+    ]
+  },
+  {
+    "pkg": "libreoffice",
+    "pkg_id": "libreoffice",
+    "pkg_name": "libreoffice",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A free and open source painting application (still-full)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/libreoffice/appimage.official.still-full.yaml"
+    ]
+  },
+  {
+    "pkg": "libreoffice",
+    "pkg_id": "libreoffice",
+    "pkg_name": "libreoffice",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A free and open source painting application (still-standard)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/libreoffice/appimage.official.still-standard.yaml"
+    ]
+  },
+  {
+    "pkg": "libresprite",
+    "pkg_id": "libresprite",
+    "pkg_name": "libresprite",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Animated sprite editor & pixel art tool",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/libresprite/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "libresprite",
+    "pkg_id": "libresprite",
+    "pkg_name": "libresprite",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Animated sprite editor & pixel art tool",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/libresprite/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "librewolf",
+    "pkg_id": "librewolf",
+    "pkg_name": "librewolf",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A fork of Firefox, focused on privacy, security and freedom",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/librewolf/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "librewolf",
+    "pkg_id": "librewolf",
+    "pkg_name": "librewolf",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A fork of Firefox, focused on privacy, security and freedom",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/librewolf/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "linkook",
+    "pkg_id": "linkook",
+    "pkg_name": "linkook",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "OSINT tool to find Accounts/Emails across multiple platforms using a single Username",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/linkook/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "malwoverview",
+    "pkg_id": "malwoverview",
+    "pkg_name": "malwoverview",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tool for threat hunting and gathering intel information from various sources",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/malwoverview/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "mcpelauncher",
+    "pkg_id": "mcpelauncher",
+    "pkg_name": "mcpelauncher",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Minecraft Bedrock Launcher for Linux",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/mcpelauncher/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "megasync",
+    "pkg_id": "megasync",
+    "pkg_name": "megasync",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Syncs files between computers and MEGA Cloud drives",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/megasync/runimage.debian.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "melonds",
+    "pkg_id": "melonds",
+    "pkg_name": "melonds",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Nintendo DS/DSi emulator",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/melonds/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "metafinder",
+    "pkg_id": "metafinder",
+    "pkg_name": "metafinder",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Search documents from a domain through search engines",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/metafinder/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "mitmproxy",
+    "pkg_id": "mitmproxy",
+    "pkg_name": "mitmproxy",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "SSL/TLS-capable man-in-the-middle proxy for HTTP and Websockets",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/mitmproxy/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "mpv",
+    "pkg_id": "mpv",
+    "pkg_name": "mpv",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "General Purpose Command line video player",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/mpv/appimage.pkgforge-dev.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "name-that-hash",
+    "pkg_id": "name-that-hash",
+    "pkg_name": "name-that-hash",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "CLI for the identification of hashes",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/name-that-hash/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "neovim",
+    "pkg_id": "neovim",
+    "pkg_name": "neovim",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Vim text editor fork focused on extensibility and agility",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/neovim/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "neovim",
+    "pkg_id": "neovim",
+    "pkg_name": "neovim",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Vim text editor fork focused on extensibility and agility",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/neovim/nixappimage.nixpkgs.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "netexec",
+    "pkg_id": "netexec",
+    "pkg_name": "netexec",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "The Network Execution (CrackMapExec) Tool",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/netexec/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "nheko",
+    "pkg_id": "nheko",
+    "pkg_name": "nheko",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Desktop client for Matrix",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/nheko/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "nmap",
+    "pkg_id": "nmap",
+    "pkg_name": "nmap",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Utilities for Network Discovery and Security Auditing",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/nmap/archive.sharun.alpine.yaml"
+    ]
+  },
+  {
+    "pkg": "nmap",
+    "pkg_id": "nmap",
+    "pkg_name": "nmap",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Network exploration tool and security/port scanner",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/nmap/runimage.alpine.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "obs-studio",
+    "pkg_id": "obs-studio",
+    "pkg_name": "obs-studio",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "FOSS cross-platform screencasting and streaming app",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/obs-studio/appimage.pkgforge-dev.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "oci-cli",
+    "pkg_id": "oci-cli",
+    "pkg_name": "oci-cli",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Command Line Interface for Oracle Cloud Infrastructure",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/oci-cli/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "oils",
+    "pkg_id": "oils",
+    "pkg_name": "oils",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Unix shell with JSON-compatible structured data",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/oils/archive.sharun.alpine.yaml"
+    ]
+  },
+  {
+    "pkg": "openboard",
+    "pkg_id": "openboard",
+    "pkg_name": "openboard",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Interactive whiteboard software for schools and universities",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/openboard/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "openvscode-server",
+    "pkg_id": "openvscode-server",
+    "pkg_name": "openvscode-server",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Run VS Code on any machine anywhere and access it in the browser (GitPod)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/openvscode-server/archive.wrappe.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "p1radup",
+    "pkg_id": "p1radup",
+    "pkg_name": "p1radup",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Process URLs and remove duplicate query parameters",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/p1radup/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "pdfly",
+    "pkg_id": "pdfly",
+    "pkg_name": "pdfly",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "CLI tool to extract (meta)data from PDF and manipulate PDF files",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/pdfly/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "peazip",
+    "pkg_id": "peazip",
+    "pkg_name": "peazip",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Open Source archive manager and data compression utility",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/peazip/appimage.ferion11.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "pg_activity",
+    "pkg_id": "pg_activity",
+    "pkg_name": "pg_activity",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Top-like application for PostgreSQL server activity monitoring",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/pg_activity/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "pixelpulse2",
+    "pkg_id": "pixelpulse2",
+    "pkg_name": "pixelpulse2",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Pixelpulse2 is a user interface for analog systems exploration.",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/pixelpulse2/appimage.pkgforge-dev.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "player432hz",
+    "pkg_id": "player432hz",
+    "pkg_name": "player432hz",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A suite of Audio/Video Tools",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/player432hz/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "porch-pirate",
+    "pkg_id": "porch-pirate",
+    "pkg_name": "porch-pirate",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Recon/OSINT Tool for finding API Endpoints etc from Postman",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/porch-pirate/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "port-for",
+    "pkg_id": "port-for",
+    "pkg_name": "port-for",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "CLI for local TCP ports management",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/port-for/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "powertop",
+    "pkg_id": "powertop",
+    "pkg_name": "powertop",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Power consumption measurement and estimation tool",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/powertop/archive.sharun.alpine.yaml"
+    ]
+  },
+  {
+    "pkg": "ppsspp",
+    "pkg_id": "ppsspp",
+    "pkg_name": "ppsspp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A Fast and Portable PSP emulator",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ppsspp/appimage.pkgforge-dev.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "proxychains",
+    "pkg_id": "proxychains",
+    "pkg_name": "proxychains",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Redirect any TCP connection through a proxy or proxy chain",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/proxychains/archive.sharun.alpine.yaml"
+    ]
+  },
+  {
+    "pkg": "ps_mem",
+    "pkg_id": "ps_mem",
+    "pkg_name": "ps_mem",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Utility to accurately report the in core memory usage for a program",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ps_mem/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "puddletag",
+    "pkg_id": "puddletag",
+    "pkg_name": "puddletag",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Powerful, simple, audio tag editor for GNU/Linux",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/puddletag/appimage.pkgforge-dev.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "puncia",
+    "pkg_id": "puncia",
+    "pkg_name": "puncia",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "CLI utility for Subdomain Center & Exploit Observer",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/puncia/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "pyarmor",
+    "pkg_id": "pyarmor",
+    "pkg_name": "pyarmor",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Obfuscate, Bind & expire Python Scripts",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/pyarmor/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "pyp",
+    "pkg_id": "pyp",
+    "pkg_name": "pyp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Easily run Python at the shell",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/pyp/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "qbittorrent-enhanced",
+    "pkg_id": "qbittorrent-enhanced",
+    "pkg_name": "qbittorrent-enhanced",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Enhanced version of qBittorrent with extra features",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/qbittorrent-enhanced/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "qbittorrent",
+    "pkg_id": "qbittorrent",
+    "pkg_name": "qbittorrent",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A P2P (peer-to-peer) Bittorrent client (Beta)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/qbittorrent/appimage.official.beta.yaml"
+    ]
+  },
+  {
+    "pkg": "qbittorrent",
+    "pkg_id": "qbittorrent",
+    "pkg_name": "qbittorrent",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A P2P (peer-to-peer) Bittorrent client",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/qbittorrent/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "readpe",
+    "pkg_id": "readpe",
+    "pkg_name": "readpe",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "PE file analysis toolkit",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/readpe/appimage.ppkg.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "remarshal",
+    "pkg_id": "remarshal",
+    "pkg_name": "remarshal",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Convert between CBOR, JSON, MessagePack, TOML, and YAML",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/remarshal/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "resolve-march-native",
+    "pkg_id": "resolve-march-native",
+    "pkg_name": "resolve-march-native",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tool to determine what GCC flags -march=native would resolve into",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/resolve-march-native/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "ruffle",
+    "pkg_id": "ruffle",
+    "pkg_name": "ruffle",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Adobe Flash Player emulator",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ruffle/runimage.cachyos.nightly.yaml"
+    ]
+  },
+  {
+    "pkg": "rustdesk",
+    "pkg_id": "rustdesk",
+    "pkg_name": "rustdesk",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "FOSS Remote desktop application (Nightly)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/rustdesk/appimage.official.nightly.yaml"
+    ]
+  },
+  {
+    "pkg": "rustdesk",
+    "pkg_id": "rustdesk",
+    "pkg_name": "rustdesk",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "FOSS Remote desktop application",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/rustdesk/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "ryujinx",
+    "pkg_id": "ryujinx",
+    "pkg_name": "ryujinx",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Nintendo Switch Emulator (Canary)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ryujinx/appimage.official.canary.yaml"
+    ]
+  },
+  {
+    "pkg": "ryujinx",
+    "pkg_id": "ryujinx",
+    "pkg_name": "ryujinx",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Nintendo Switch Emulator",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ryujinx/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "sandwine",
+    "pkg_id": "sandwine",
+    "pkg_name": "sandwine",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Run Windows apps with Wine and bwrap/bubblewrap isolation",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/sandwine/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "sanicdns",
+    "pkg_id": "sanicdns",
+    "pkg_name": "sanicdns",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Recursive DNS Resolver",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/sanicdns/archive.sharun.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "scons",
+    "pkg_id": "scons",
+    "pkg_name": "scons",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A Python replacement for Makefile-based build systems",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/scons/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "shell-gpt",
+    "pkg_id": "shell-gpt",
+    "pkg_name": "shell-gpt",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Postgres CLI with autocompletion and syntax highlighting",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/shell-gpt/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "sherlock",
+    "pkg_id": "sherlock",
+    "pkg_name": "sherlock",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Hunt down social media accounts by username",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/sherlock/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "shot-scraper",
+    "pkg_id": "shot-scraper",
+    "pkg_name": "shot-scraper",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Command-line utility for taking automated screenshots of websites",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/shot-scraper/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "showcert",
+    "pkg_id": "showcert",
+    "pkg_name": "showcert",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Inspect TLS certificates presented by remote servers",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/showcert/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "signal-desktop",
+    "pkg_id": "signal-desktop",
+    "pkg_name": "signal-desktop",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Private, simple, and secure messenger",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/signal-desktop/appimage.karo-solutions.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "simplex-chat",
+    "pkg_id": "simplex-chat",
+    "pkg_name": "simplex-chat",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A 100% private-by-design chat platform for the command-line",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/simplex-chat/archive.sharun.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "simplex-desktop",
+    "pkg_id": "simplex-desktop",
+    "pkg_name": "simplex-desktop",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Desktop application for SimpleX Chat, A 100% private-by-design chat platform",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/simplex-desktop/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "simplex-desktop",
+    "pkg_id": "simplex-desktop",
+    "pkg_name": "simplex-desktop",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Desktop application for SimpleX Chat, A 100% private-by-design chat platform",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/simplex-desktop/nixappimage.nixpkgs.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "snallygaster",
+    "pkg_id": "snallygaster",
+    "pkg_name": "snallygaster",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tool to scan for hidden/secret files on HTTP servers",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/snallygaster/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "spotify",
+    "pkg_id": "spotify",
+    "pkg_name": "spotify",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A proprietary music streaming service",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/spotify/appimage.ivan-hc.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "spotube",
+    "pkg_id": "spotube",
+    "pkg_name": "spotube",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "FOSS Spotify Client",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/spotube/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "steam",
+    "pkg_id": "steam",
+    "pkg_name": "steam",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A video game digital distribution service and storefront from Valve",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/steam/runimage.archlinux.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "steam",
+    "pkg_id": "steam",
+    "pkg_name": "steam",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A video game digital distribution service and storefront from Valve",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/steam/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "strawberry",
+    "pkg_id": "strawberry",
+    "pkg_name": "strawberry",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A Audio Player and Music Collection Organizer",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/strawberry/appimage.pkgforge-dev.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "streamlink",
+    "pkg_id": "streamlink",
+    "pkg_name": "streamlink",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Program to pipe streams from services into a video player",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/streamlink/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "subversion",
+    "pkg_id": "subversion",
+    "pkg_name": "subversion",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Enterprise-class centralized version control for the masses",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/subversion/archive.sharun.alpine.yaml"
+    ]
+  },
+  {
+    "pkg": "sudachi",
+    "pkg_id": "sudachi",
+    "pkg_name": "sudachi",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Nintendo Switch emulator forked from yuzu",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/sudachi/archive.wrappe.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "sudo-rs",
+    "pkg_id": "sudo-rs",
+    "pkg_name": "sudo-rs",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Memory safe implementation of sudo and su",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/sudo-rs/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "suyu",
+    "pkg_id": "suyu",
+    "pkg_name": "suyu",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Nintendo Switch emulator based on yuzu, with additional features",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/suyu/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "synfigstudio",
+    "pkg_id": "synfigstudio",
+    "pkg_name": "synfigstudio",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Professional vector animation program",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/synfigstudio/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "tangent",
+    "pkg_id": "tangent",
+    "pkg_name": "tangent",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A clean and powerful open source notes app",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/tangent/appimage.official.alpha.yaml"
+    ]
+  },
+  {
+    "pkg": "tangent",
+    "pkg_id": "tangent",
+    "pkg_name": "tangent",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A clean and powerful open source notes app",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/tangent/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "teamviewer",
+    "pkg_id": "teamviewer",
+    "pkg_name": "teamviewer",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "All-In-One Software for Remote Support and Online Meetings (Client)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/teamviewer/archive.wrappe.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "telegram-desktop",
+    "pkg_id": "telegram-desktop",
+    "pkg_name": "telegram-desktop",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Official desktop version of Telegram messaging app",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/telegram-desktop/dynamic.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "telegram-desktop",
+    "pkg_id": "telegram-desktop",
+    "pkg_name": "telegram-desktop",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Official desktop version of Telegram messaging app",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/telegram-desktop/nixappimage.nixpkgs.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "tldextract",
+    "pkg_id": "tldextract",
+    "pkg_name": "tldextract",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Separates a URL's subdomain, domain, and public suffix, using the Public Suffix List (PSL)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/tldextract/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "tmuxp",
+    "pkg_id": "tmuxp",
+    "pkg_name": "tmuxp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Manage tmux workspaces from JSON and YAML",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/tmuxp/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "torzu",
+    "pkg_id": "torzu",
+    "pkg_name": "torzu",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Fork of yuzu, an open-source Nintendo Switch emulator",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/torzu/appimage.pkgforge-dev.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "torzu",
+    "pkg_id": "torzu",
+    "pkg_name": "torzu",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Fork of yuzu, an open-source Nintendo Switch emulator (x86-64-v3)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/torzu/appimage.pkgforge-dev.v3.yaml"
+    ]
+  },
+  {
+    "pkg": "trafilatura",
+    "pkg_id": "trafilatura",
+    "pkg_name": "trafilatura",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Command line journal application that stores your journal in a plain text file",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/trafilatura/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "twine",
+    "pkg_id": "twine",
+    "pkg_name": "twine",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Utility for publishing Python packages on PyPI",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/twine/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "twingate",
+    "pkg_id": "twingate",
+    "pkg_name": "twingate",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Zero trust remote access client for resource and networks",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/twingate/archive.sharun.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "twitch-dl",
+    "pkg_id": "twitch-dl",
+    "pkg_name": "twitch-dl",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "CLI tool for downloading videos from Twitch",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/twitch-dl/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "udocker",
+    "pkg_id": "udocker",
+    "pkg_name": "udocker",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Execute simple Docker Containers in User Space without root privileges",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/udocker/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "ultimmc",
+    "pkg_id": "ultimmc",
+    "pkg_name": "ultimmc",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Offline Minecraft launcher",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ultimmc/archive.wrappe.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "ultimmc",
+    "pkg_id": "ultimmc",
+    "pkg_name": "ultimmc",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Offline Minecraft launcher",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/ultimmc/runimage.debian.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "urless",
+    "pkg_id": "urless",
+    "pkg_name": "urless",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "De-clutter a list of URLs",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/urless/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "uro",
+    "pkg_id": "uro",
+    "pkg_name": "uro",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Declutter url lists for crawling/pentesting",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/uro/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "verilator",
+    "pkg_id": "verilator",
+    "pkg_name": "verilator",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Verilog/SystemVerilog simulator",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/verilator/appimage.ppkg.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "vesktop",
+    "pkg_id": "vesktop",
+    "pkg_name": "vesktop",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A custom Discord App aiming to give you better performance and improve linux support",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/vesktop/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "vscodium",
+    "pkg_id": "vscodium",
+    "pkg_name": "vscodium",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Visual Studio Code without MS branding/telemetry/licensing",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/vscodium/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "vscodium",
+    "pkg_id": "vscodium",
+    "pkg_name": "vscodium",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Visual Studio Code without MS branding/telemetry/licensing",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/vscodium/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "wafw00f",
+    "pkg_id": "wafw00f",
+    "pkg_name": "wafw00f",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tool to identify and fingerprint Web Application Firewalls (WAF)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/wafw00f/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "wappalyzer",
+    "pkg_id": "wappalyzer",
+    "pkg_name": "wappalyzer",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tool to Detect web Technologies",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/wappalyzer/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "waydroid-helper",
+    "pkg_id": "waydroid-helper",
+    "pkg_name": "waydroid-helper",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A GUI application for Waydroid configuration and extension installation",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/waydroid-helper/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "wezterm",
+    "pkg_id": "wezterm",
+    "pkg_name": "wezterm",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/wezterm/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "wezterm",
+    "pkg_id": "wezterm",
+    "pkg_name": "wezterm",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/wezterm/runimage.alpine.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "wezterm",
+    "pkg_id": "wezterm",
+    "pkg_name": "wezterm",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/wezterm/runimage.cachyos.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "wps-office",
+    "pkg_id": "wps-office",
+    "pkg_name": "wps-office",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "All-in-one Kingsoft Office Suite",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/wps-office/appimage.ivan-hc.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "wrangler",
+    "pkg_id": "wrangler",
+    "pkg_name": "wrangler",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Command-line interface for all things Cloudflare Workers",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/wrangler/archive.sharun.npm.yaml"
+    ]
+  },
+  {
+    "pkg": "xash3d-fwgs",
+    "pkg_id": "xash3d-fwgs",
+    "pkg_name": "xash3d-fwgs",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Heavily modified fork of an original Xash3D Engine for Half Life",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/xash3d-fwgs/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "xashds",
+    "pkg_id": "xashds",
+    "pkg_name": "xashds",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Xash3D FWGS Dedicated Server",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/xashds/archive.wrappe.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "xhost",
+    "pkg_id": "xhost",
+    "pkg_name": "xhost",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Utility to control X server access",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/xhost/archive.sharun.alpine.yaml"
+    ]
+  },
+  {
+    "pkg": "xmap",
+    "pkg_id": "xmap",
+    "pkg_name": "xmap",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Fast Internet-wide IPv6 & IPv4 network scanner",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/xmap/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "xnlinkfinder",
+    "pkg_id": "xnlinkfinder",
+    "pkg_name": "xnlinkfinder",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Tool to discover endpoints, potential parameters & more for a given Target",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/xnlinkfinder/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "xonsh",
+    "pkg_id": "xonsh",
+    "pkg_name": "xonsh",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Python-ish, BASHwards-compatible shell",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/xonsh/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "xrdp",
+    "pkg_id": "xrdp",
+    "pkg_name": "xrdp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Open source Remote Desktop Protocol (RDP) server",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/xrdp/appimage.ppkg.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "xvfb-run",
+    "pkg_id": "xvfb-run",
+    "pkg_name": "xvfb-run",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Run a command in a virtual X server environment",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/xvfb-run/archive.sharun.alpine.yaml"
+    ]
+  },
+  {
+    "pkg": "yamllint",
+    "pkg_id": "yamllint",
+    "pkg_name": "yamllint",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Linter for YAML files",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/yamllint/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "yt-dlp",
+    "pkg_id": "yt-dlp",
+    "pkg_name": "yt-dlp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "CLI program to download videos from YouTube and other sites",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/yt-dlp/archive.sharun.pypi.yaml"
+    ]
+  },
+  {
+    "pkg": "yt-dlp",
+    "pkg_id": "yt-dlp",
+    "pkg_name": "yt-dlp",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "CLI program to download videos from YouTube and other sites",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/yt-dlp/archive.sharun.source.yaml"
+    ]
+  },
+  {
+    "pkg": "zed",
+    "pkg_id": "zed",
+    "pkg_name": "zed",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "High-performance, multiplayer code editor",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/zed/archive.wrappe.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "zen-browser",
+    "pkg_id": "zen-browser",
+    "pkg_name": "zen-browser",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Performance oriented Firefox-based web browser (Beta)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/zen-browser/appimage.official.beta.yaml"
+    ]
+  },
+  {
+    "pkg": "zen-browser",
+    "pkg_id": "zen-browser",
+    "pkg_name": "zen-browser",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Performance oriented Firefox-based web browser",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/zen-browser/appimage.official.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "zen-browser",
+    "pkg_id": "zen-browser",
+    "pkg_name": "zen-browser",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Performance oriented Firefox-based web browser (Twilight)",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/zen-browser/appimage.official.twilight.yaml"
+    ]
+  },
+  {
+    "pkg": "zerotier",
+    "pkg_id": "zerotier",
+    "pkg_name": "zerotier",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "A Smart Ethernet Switch for Earth",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/zerotier/archive.sharun.stable.yaml"
+    ]
+  },
+  {
+    "pkg": "zmap",
+    "pkg_id": "zmap",
+    "pkg_name": "zmap",
+    "pkg_type": "appimage",
+    "host": [
+      "x86_64-linux"
+    ],
+    "version": "latest",
+    "download_url": "",
+    "size": 0,
+    "description": "Fast single packet network scanner designed for Internet-wide network surveys",
+    "src_url": [
+      "https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/zmap/archive.sharun.source.yaml"
+    ]
+  }
+]

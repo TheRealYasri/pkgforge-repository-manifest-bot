@@ -1,0 +1,68 @@
+name: Daily Update (If Changed)
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  check_and_update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Check for Remote Updates
+        id: check_updates
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REPOS=("pkgforge-dev/Anylinux-AppImages" "pkgforge/pkgcache" "pkgforge/bincache" "pkgforge/soarpkgs")
+          UPDATED="false"
+          THRESHOLD=$(date -d "24 hours ago" +%s)
+          
+          for repo in "${REPOS[@]}"; do
+            echo "Checking $repo..."
+            
+            # Fetch latest commit using the API (Array format)
+            RESPONSE=$(curl -s -L -H "Authorization: Bearer $GITHUB_TOKEN" \
+              "https://api.github.com/repos/$repo/commits?per_page=1")
+            
+            # Verify valid JSON array before piping to jq
+            if echo "$RESPONSE" | jq -e 'type == "array"' >/dev/null 2>&1; then
+              LAST_COMMIT=$(echo "$RESPONSE" | jq -r '.[0].commit.committer.date')
+              COMMIT_SEC=$(date -d "$LAST_COMMIT" +%s)
+              
+              if [ "$COMMIT_SEC" -gt "$THRESHOLD" ]; then
+                echo "Update detected in $repo at $LAST_COMMIT"
+                UPDATED="true"
+                break
+              fi
+            else
+              echo "Warning: API error for $repo. Check name or token."
+            fi
+          done
+          
+          echo "updated=$UPDATED" >> $GITHUB_OUTPUT
+
+      - name: Run Scrapers and Filter
+        if: steps.check_updates.outputs.updated == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pip install requests
+          python scripts/generate_anylinux.py
+          python scripts/generate_pkgcache.py
+          python scripts/generate_bincache.py
+          python scripts/filter_manifests.py
+
+      - name: Commit and Push
+        if: steps.check_updates.outputs.updated == 'true'
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add manifests/*.json
+          git commit -m "chore: automated manifest update (upstream changes detected)" || echo "No changes"
+          git push
